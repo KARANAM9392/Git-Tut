@@ -1,2 +1,2 @@
-a=input("heloo: ")
-print(a)
+a=input()
+print("heloo!"+a,"How are you")
