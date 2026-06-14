@@ -1,2 +1,2 @@
-a=input("heloo: ")
+a=input("heloo! am : ")
 print(a)
